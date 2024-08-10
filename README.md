@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amonraset
-- 👀 I’m interested in ...
+- 👀 I’m interested in development for iOS.
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me minia@bk.ru
